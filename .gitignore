@@ -42,3 +42,5 @@ highlights/package-lock.json
 atlassian-ide-plugin.xml
 __pycache__
 .vscode
+00_sandbox/binary_search.py
+00_sandbox/test.py
